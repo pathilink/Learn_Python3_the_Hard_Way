@@ -2,3 +2,6 @@
 Exercises from the book Learn Python 3 the Hard Way.
 
 https://learncodethehardway.org/python/
+
+![](https://m.media-amazon.com/images/I/517Hl1-kofL.jpg)
+
