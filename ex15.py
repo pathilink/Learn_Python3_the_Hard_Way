@@ -14,4 +14,4 @@ txt_again = open(file_again)
 
 print(txt_again.read())
 
-# To run: $ ex15.py ex15_sample.txt
+# To run: $ python3 ex15.py ex15_sample.txt
