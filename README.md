@@ -10,8 +10,16 @@ Exercises from the book Learn Python 3 the Hard Way.
 
 [Download Python](https://www.python.org/downloads/)
 
-Documentation:
+## To run
 
 ```bash
-pydoc <name>
+python3 exNumber.py
 ```
+
+## Made with
+
+<img alt="Python" src="https://img.shields.io/badge/-Python-039ea2?style=flat&logo=python&logoColor=white"/>
+
+## Author
+
+[![Linkedin Badge](https://img.shields.io/badge/-Patrícia-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pathilink/)](https://www.linkedin.com/in/pathilink/)
